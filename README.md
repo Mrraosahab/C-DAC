@@ -33,6 +33,6 @@ Feel free to submit pull requests to me.
 
 # Authors
 
-* Pradeep Kumar Yadav     https://github.com/Mrraosahab/
+* Pradeep Kumar Yadav     https://github.com/pradeep1997
 
 
